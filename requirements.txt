@@ -1,0 +1,6 @@
+# 运行依赖
+Pillow>=9.2.0
+pynput>=1.7.6
+
+# 打包依赖（仅打包 EXE 时需要）
+# pyinstaller>=6.0

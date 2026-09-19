@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.egg
+
+# 虚拟环境
+venv/
+.venv/
+env/
+
+# PyInstaller 产物
+build/
+dist/
+dist_*/
+inst_dist/
+inst_build/
+*.spec
+
+# 本地/调试
+*.log
+runlog.txt
+config.json
+
+# 本地素材 / 调试截图（不公开）
+assets/schedule_*.png
+mock_*.png
+preview_edge.png
+verify.png
+使用说明.txt
+
+# 编辑器
+.idea/
+.vscode/
+*.swp
